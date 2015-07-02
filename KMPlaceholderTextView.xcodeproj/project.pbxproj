@@ -167,6 +167,7 @@
 		CD2064E81AA18E6900E1F272 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Zhouqi Mo";
 				TargetAttributes = {
@@ -419,6 +420,7 @@
 				CD2065111AA18E6900E1F272 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CD2065121AA18E6900E1F272 /* Build configuration list for PBXNativeTarget "KMPlaceholderTextViewTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +429,7 @@
 				CD2065141AA18E6900E1F272 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
