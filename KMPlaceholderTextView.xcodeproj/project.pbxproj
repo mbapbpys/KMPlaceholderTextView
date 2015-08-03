@@ -167,6 +167,7 @@
 		CD2064E81AA18E6900E1F272 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Zhouqi Mo";
